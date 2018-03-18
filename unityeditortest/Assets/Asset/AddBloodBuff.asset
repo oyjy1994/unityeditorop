@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 997dd68da8afa99428bcbb62d3ca45b5, type: 3}
   m_Name: AddBloodBuff
   m_EditorClassIdentifier: 
-  value: 10
+  value: 19

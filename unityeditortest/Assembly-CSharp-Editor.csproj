@@ -51,9 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Editor\BuffAssetEditor.cs" />
-     <Compile Include="Assets\Editor\HealthAddBuffEditor.cs" />
-     <Compile Include="Assets\Editor\HealthDelBuffEditor.cs" />
+     <Compile Include="Assets\Editor\ScriptableObject\BuffAssetEditor.cs" />
+     <Compile Include="Assets\Editor\ScriptableObject\HealthAddBuffEditor.cs" />
+     <Compile Include="Assets\Editor\ScriptableObject\HealthDelBuffEditor.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity2017.3/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

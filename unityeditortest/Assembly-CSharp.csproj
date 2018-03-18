@@ -51,11 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\BaseBuff.cs" />
-     <Compile Include="Assets\Script\BuffManager.cs" />
-     <Compile Include="Assets\Script\Health.cs" />
-     <Compile Include="Assets\Script\HealthAddBuff.cs" />
-     <Compile Include="Assets\Script\HealthDelBuff.cs" />
+     <Compile Include="Assets\Script\ScriptableObject\BaseBuff.cs" />
+     <Compile Include="Assets\Script\ScriptableObject\BuffManager.cs" />
+     <Compile Include="Assets\Script\ScriptableObject\Health.cs" />
+     <Compile Include="Assets\Script\ScriptableObject\HealthAddBuff.cs" />
+     <Compile Include="Assets\Script\ScriptableObject\HealthDelBuff.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity2017.3/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
