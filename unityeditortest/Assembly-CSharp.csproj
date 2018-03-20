@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\CustomList\CustomList.cs" />
      <Compile Include="Assets\Script\ScriptableObject\BaseBuff.cs" />
      <Compile Include="Assets\Script\ScriptableObject\BuffManager.cs" />
      <Compile Include="Assets\Script\ScriptableObject\Health.cs" />
